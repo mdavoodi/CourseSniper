@@ -8,6 +8,7 @@ CourseSniper is a script written using mechanize which automates the process of 
 
 ## Features
  -  Adding classes by CRN.
+ -  Replacing a section of a class with another class.
  -  CourseSniper supports checking for multiple classes at once using multiprocessing.
  -  Will show current processes running in the jobs list.
  -  Logs the results of all operations in Logs.
